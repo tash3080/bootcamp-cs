@@ -94,6 +94,12 @@ sudo lynis audit system
 4. Provide a report from the Lynis output on what can be done to harden the system.
 
     - Screenshot of report output:
+    ![lynis_output_1](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_1.png)
+    ![lynis_output_2](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_2.png)
+    ![lynis_output_3](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_3.png)
+    ![lynis_output_4](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_4.png)
+    ![lynis_output_5](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_5.png)
+    ![lynis_output_6](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/lynis_6.png)
 Here are the suggestions from the lynis output
 Suggestions (52):
   ----------------------------
@@ -296,6 +302,13 @@ sudo chkrootkit -x
 
 4. Provide a report from the chrootkit output on what can be done to harden the system.
     - Screenshot of end of sample output:
+    ![chkrootkit_output_1](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/chkrootkit_1.png)
+    ![chkrootkit_output_2](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/chkrootkit_2.png)
+    ![chkrootkit_output_3](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/chkrootkit_3.png)
+    ![chkrootkit_output_4](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/chkrootkit_4.png)
+    ![chkrootkit_output_5](https://github.com/tash3080/bootcamp-cs/blob/main/HW4/chkrootkit_5.png)
+    
+    
     Here is the end of sample output:
  The tty of the following user process(es) were not found
  in /var/run/utmp !
